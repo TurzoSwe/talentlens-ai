@@ -1,0 +1,17 @@
+pandas
+numpy
+scikit-learn
+jupyter
+notebook
+matplotlib
+seaborn
+pypdf
+python-dotenv
+sentence-transformers
+faiss-cpu
+fastapi
+uvicorn
+pydantic
+sqlalchemy
+psycopg2-binary
+mlflow
